@@ -39,6 +39,8 @@ cd finetuning
 python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 100000/600000
 ```
 
+Note: When using `dataset_name microsoft`, don't forget add `-–character 0123456789abcdefghijklmnopqrstuvwxyz-` in finetuning stage. Since Microsoft employs two-layer captchas , we use `-` as the delimiter between the upper layer and the lower layer.
+
 ## Result
 
 
