@@ -39,15 +39,13 @@ Note: When using `--dataset_name microsoft`, don't forget add `-–character 012
 
 ## Result
 
-<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="200px">
-
 | Scheme     | Example | Accuracy     |
 | ----------- | -----| ------------ |
 | Google     | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="200px"> | 90.73%       |
-| Yandex     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png) | 92.87%       |
-| Microsoft  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg) | 97.41%       |
-| Wikiepdia  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png) | 97.80%       |
-| Weibo      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/weibo.jpg) | 92.47%       |
-| Sina       | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/sina.png) | 97.00%       |
-| Apple      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/apple.jpg) | 95.60%       |
-| Ganji      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/ganji-1.png) | 99.73%       |
+| Yandex     | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png" width="200px"> | 92.87%       |
+| Microsoft  | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg" width="200px"> | 97.41%       |
+| Wikiepdia  | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png" width="200px"> | 97.80%       |
+| Weibo      | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/weibo.jpg" width="200px"> | 92.47%       |
+| Sina       | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/sina.png" width="200px"> | 97.00%       |
+| Apple      | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/apple.jpg" width="200px"> | 95.60%       |
+| Ganji      | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/ganji-1.png" width="200px"> | 99.73%       |
