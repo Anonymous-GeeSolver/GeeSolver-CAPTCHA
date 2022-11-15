@@ -1,4 +1,4 @@
-# GEESOLVER
+# GeeSolver
 
 This reposity is official implementation of "GEESOLVER: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas".
 
