@@ -31,11 +31,12 @@ nltk=3.7
 cd pretrain
 python pretrain.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6
 ```
+The model will be saved every 100,000 iterations. For fast training, use `--restore 100000` in finetuning stage. For better effect, use `--restore 600000` in finetuning stage.
 
 ### 2. finetune
 ```
 cd finetuning
-python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 600000
+python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 100000/600000
 ```
 
 ## Result
