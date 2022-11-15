@@ -28,11 +28,13 @@ nltk=3.7
 
 ### 1. pretrain
 ```
+cd pretrain
 python pretrain.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6
 ```
 
 ### 2. finetune
 ```
+cd finetune
 python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 600000
 ```
 
