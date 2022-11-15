@@ -40,13 +40,13 @@ Note: When using `--dataset_name microsoft`, don't forget add `-–character 012
 ## Result
 
 
-| Scheme      | Accuracy     |
-| ----------- | ------------ |
-| Google      | 90.73%       |
-| Yandex      | 92.87%       |
-| Microsoft   | 97.41%       |
-| Wikiepdia   | 97.80%       |
-| Weibo       | 92.47%       |
-| Sina        | 97.00%       |
-| Apple       | 95.60%       |
-| Ganji       | 99.73%       |
+| Scheme     | Example | Accuracy     |
+| ----------- | -----| ------------ |
+| Google     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Cases/microsoft_en.png | 90.73%       |
+| Yandex     | | 92.87%       |
+| Microsoft  | | 97.41%       |
+| Wikiepdia  | | 97.80%       |
+| Weibo      | | 92.47%       |
+| Sina       | | 97.00%       |
+| Apple      | | 95.60%       |
+| Ganji      | | 99.73%       |
