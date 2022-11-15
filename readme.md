@@ -4,9 +4,9 @@ This reposity is official implementation of "GeeSolver: A Generic, Efficient, an
 
 ## Usage of text captchas
 
-Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases (collected on Oct. 2022). 
+Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft, and Yandex) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases (collected on Oct. 2022). 
 
-The  complete list of the top-50 websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/AlexaList.
+Since Alexa.com ends service on May 1, 2022, we provide a copy of the complete list of the top-50 websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/AlexaList.
 
 ## Dependency
 
