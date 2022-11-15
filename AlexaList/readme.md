@@ -5,7 +5,7 @@ Since Alexa.com ends service on May 1, 2022, we provide a copy of the complete l
 |     | Website             | Captcha System                                  |
 | --- | ------------------- | ----------------------------------------------- |
 | 1   | Google.com          | 1.**text-based** 2.image-based 3.behavior-based |
-| 2   | Youtube.com         | **text-based captchas**(same as Google.com)     |
+| 2   | Youtube.com         | **text-based captchas** (same as Google.com)     |
 | 3   | Baidu.com           | rotation-based captchas                         |
 | 4   | Tmall.com           | swipe-based captchas                            |
 | 5   | Qq.com              | swipe-based captchas                            |
