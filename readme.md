@@ -42,7 +42,7 @@ Note: When using `--dataset_name microsoft`, don't forget add `-–character 012
 
 | Scheme     | Example | Accuracy     |
 | ----------- | -----| ------------ |
-| Google     | <img src="[https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Cases/google_en.png](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg)" width="100px"> | 90.73%       |
+| Google     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg) | 90.73%       |
 | Yandex     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png) | 92.87%       |
 | Microsoft  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg) | 97.41%       |
 | Wikiepdia  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png) | 97.80%       |
