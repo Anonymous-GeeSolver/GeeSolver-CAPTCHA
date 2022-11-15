@@ -70,3 +70,13 @@ screenshot:
 
 # 2. Security Features of Eight Target Captcha Schemes
 
+| Scheme    | Example | CCT | Two-layer | Overlapping | Rotation | Distortion | Hollow Font | Variable Length | Occluding Line | noisy |
+| --------- | ------- | --- | --------- | ----------- | -------- | ---------- | ----------- | --------------- | -------------- | ----- |
+| Google    | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="120px" height="40px">        | ✅  | ❌        | ✅          | ✅       | ✅         | ❌          | ✅              | ❌             | ❌    |
+| Yandex    | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png" width="120px" height="40px">        | ✅  | ❌        | ✅          | ✅       | ✅         | ✅          | ✅              | ✅             | ❌    |
+| Microsoft | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg" width="120px" height="40px">        | ❌  | ✅        | ✅          | ✅       | ✅         | ✅          | ✅              | ❌             | ✅    |
+| Wikipedia |   <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png" width="120px" height="40px">      | ❌  | ❌        | ❌          | ✅       | ✅         | ❌          | ✅              | ❌             | ❌    |
+| Weibo     |     <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/weibo.jpg" width="120px" height="40px">     | ❌  | ❌        | ✅          | ✅       | ✅         | ❌          | ❌              | ❌             | ❌    |
+| Sina      |   <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/sina.png" width="120px" height="40px">      | ❌  | ❌        | ✅          | ✅       | ❌         | ✅          | ❌              | ✅             | ❌    |
+| Apple     |  <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/apple.jpg" width="120px" height="40px">       | ❌  | ❌        | ✅          | ✅       | ❌         | ❌          | ✅              | ❌             | ✅    |
+| Ganji     |    <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/ganji-1.png" width="120px" height="40px">     | ❌  | ❌        | ❌          | ❌       | ✅         | ❌          | ❌                | ✅             | ✅    |
