@@ -71,7 +71,7 @@ screenshot:
 # 2. Security Features of Eight Target Captcha Schemes
 
 
-|  Scheme   |                                                             Example                                                             | CCT | Two-layer | Overlapping | Rotation | Distortion | Hollow Font | Variable Length | Occluding Line | noisy |
+|  Scheme   |                                                             Example                                                             | CCT | Two-layer | Overlapping | Rotation | Distortion | Hollow Font | Variable Length | Occluding Line | Noisy |
 |:---------:|:-------------------------------------------------------------------------------------------------------------------------------:|:---:|:---------:|:-----------:|:--------:|:----------:|:-----------:|:---------------:|:--------------:|:-----:|
 |  Google   |  <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="120px" height="40px">   | ✔  |    ✘     |     ✔      |    ✔    |     ✔     |     ✘      |       ✔        |       ✘       |  ✘   |
 |  Yandex   |  <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png" width="120px" height="40px">   | ✔  |    ✘     |     ✔      |    ✔    |     ✔     |     ✔      |       ✔        |       ✔       |  ✘   |
