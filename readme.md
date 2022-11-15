@@ -42,11 +42,11 @@ Note: When using `--dataset_name microsoft`, don't forget add `-–character 012
 
 | Scheme     | Example | Accuracy     |
 | ----------- | -----| ------------ |
-| Google     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Cases/microsoft_en.png) | 90.73%       |
-| Yandex     | | 92.87%       |
-| Microsoft  | | 97.41%       |
-| Wikiepdia  | | 97.80%       |
-| Weibo      | | 92.47%       |
-| Sina       | | 97.00%       |
-| Apple      | | 95.60%       |
-| Ganji      | | 99.73%       |
+| Google     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg) | 90.73%       |
+| Yandex     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png) | 92.87%       |
+| Microsoft  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg) | 97.41%       |
+| Wikiepdia  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png) | 97.80%       |
+| Weibo      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/weibo.jpg) | 92.47%       |
+| Sina       | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/sina.png) | 97.00%       |
+| Apple      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/apple.jpg) | 95.60%       |
+| Ganji      | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/ganji-1.png) | 99.73%       |
