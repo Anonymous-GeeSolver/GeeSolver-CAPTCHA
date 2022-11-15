@@ -34,7 +34,7 @@ python pretrain.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/y
 
 ### 2. finetune
 ```
-cd finetune
+cd finetuning
 python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 600000
 ```
 
