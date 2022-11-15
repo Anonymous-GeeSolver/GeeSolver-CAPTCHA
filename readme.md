@@ -39,10 +39,11 @@ Note: When using `--dataset_name microsoft`, don't forget add `-–character 012
 
 ## Result
 
-<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" weight=200px>
+<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="200px">
+
 | Scheme     | Example | Accuracy     |
 | ----------- | -----| ------------ |
-| Google     |<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="200px">| 90.73%       |
+| Google     | <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/google.jpg" width="200px"> | 90.73%       |
 | Yandex     | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/yandex.png) | 92.87%       |
 | Microsoft  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/microsoft.jpg) | 97.41%       |
 | Wikiepdia  | ![](https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/images/wikipedia.png) | 97.80%       |
