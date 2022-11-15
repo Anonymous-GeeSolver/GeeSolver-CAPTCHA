@@ -39,13 +39,13 @@ python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo
 ## Result
 
 
-| Scheme      | Accuracy    |
-| ----------- | ----------- |
-| Google      | 76.4%       |
-| Microsoft   | 96.4%       |
-| Yandex      | 90.4%       |
-| Wikiepdia   | 98.5%       |
-| Weibo       | 92.5%       |
-| Sina        | 97.1%       |
-| Apple       | 92.9%       |
-| Ganji       | 99.4%       |
+| Scheme      | Accuracy     |
+| ----------- | ------------ |
+| Google      | 90.73%       |
+| Yandex      | 92.87%       |
+| Microsoft   | 97.41%       |
+| Wikiepdia   | 97.80%       |
+| Weibo       | 92.47%       |
+| Sina        | 97.00%       |
+| Apple       | 95.60%       |
+| Ganji       | 99.73%       |
