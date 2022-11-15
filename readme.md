@@ -4,13 +4,9 @@ This reposity is official implementation of "GEESOLVER: A Generic, Efficient, an
 
 ## Usage of text captchas
 
-Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases (collected on Oct. 2022). The complete Alexa list and the corresponding captcha schemes are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/AlexaList.
+Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases (collected on Oct. 2022). 
 
-## Dataset
-https://drive.google.com/file/d/1LVygsMH6nqPWkGLofXHT1cFXmieGRfu1/view?usp=share_link
-```
-unzip dataset.zip
-```
+The list of 50 most popular websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/AlexaList.
 
 ## Dependency
 
@@ -26,14 +22,14 @@ nltk=3.7
 
 ## Code
 
-### 1. pretrain
+### 1. Pretrain
 ```
 cd pretrain
 python pretrain.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6
 ```
 The model will be saved every 100,000 iterations. For fast training, use `--restore 100000` in finetuning stage. For better effect, use `--restore 600000` in finetuning stage.
 
-### 2. finetune
+### 2. Finetune
 ```
 cd finetuning
 python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo/yandex/google --num_layer 8 --mask_radio 0.6 --restore 100000/600000
