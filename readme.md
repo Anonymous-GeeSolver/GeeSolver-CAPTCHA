@@ -12,15 +12,15 @@ Since Alexa.com ends service on May 1, 2022, the complete list of the top-50 web
 
 We would like to better present our insights and corresponding designs through the following three questions.
 
-1. **What hinders difficult-to-attack text captchas recognition?** 
+**1. What hinders difficult-to-attack text captchas recognition?** 
 
 We note that numerous difficult-to-attack captcha schemes that “damage” the standard font of characters, making each character diversified and confusing the solver.
 
-2. **How do humans recognize these captchas?**
+**2. How do humans recognize these captchas?**
 
 Humans can recognize each “damaged” character (e.g., occlusion, distortion) by its local information. Thus, we leverage MAE-style paradigm to train a ViT encoder, which is able to extract latent representation from the local information of the character for whole character reconstruction.
 
-3. **What is the common characteristic of text captchas?**
+**3. What is the common characteristic of text captchas?**
 
 The common characteristic of captcha images is that the text is arranged horizontally from left to right. Based on this characteristic, we design our sequence-based captcha decoder, which consists of three well-designed modules.
 
