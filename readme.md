@@ -37,7 +37,7 @@ python finetuning.py --dataset_name apple/ganji-1/microsoft/wikipedia/sina/weibo
 
 Note: When using `--dataset_name microsoft`, don't forget add `-–character 0123456789abcdefghijklmnopqrstuvwxyz-` in finetuning stage. Since Microsoft employs two-layer captchas , we use `-` as the delimiter between the upper layer and the lower layer.
 
-## Result
+## Results
 
 | Scheme     | Example | Accuracy     |
 | ----------- | -----| ------------ |
