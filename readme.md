@@ -1,6 +1,6 @@
 # GeeSolver
 
-This reposity is official implementation of "GEESOLVER: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas".
+This reposity is official implementation of "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas".
 
 ## Usage of text captchas
 
