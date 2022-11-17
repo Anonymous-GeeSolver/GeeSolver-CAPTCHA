@@ -2,6 +2,10 @@
 
 This reposity is official implementation of "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas".
 
+## Overview of GeeSolver
+
+<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-overview.png">
+
 ## Usage of text-based captchas
 
 Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft, and Yandex) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases and their security feature analysis are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases. 
