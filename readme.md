@@ -26,7 +26,7 @@ The common characteristic of captcha images is that the text is arranged horizon
 
 ## The schematic illustration of GeeSolver
 
-<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-model.pdf" width="300px">
+<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-model.png">
 
 Our GeeSolver consists of a ViT encoder and a captcha decoder.
 
