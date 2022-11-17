@@ -24,6 +24,16 @@ Humans can recognize each “damaged” character (e.g., occlusion, distortion) 
 
 The common characteristic of captcha images is that the text is arranged horizontally from left to right. Based on this characteristic, we design our sequence-based captcha decoder, which consists of three well-designed modules.
 
+## The schematic illustration of GeeSolver
+
+<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-model.pdf" width="300px">
+
+Our GeeSolver consists of a ViT encoder and a captcha decoder.
+
+- [**ViT Encoder**] Numerous difficult-to-attack captcha schemes that “damage” the standard font of characters are similar to image masks. In this case, the MAE-based paradigm is very suitable for obtaining a ViT encoder (latent feature extractor) with the ability to infer characters from local information (see Fig.5&Tab.A2).
+
+- [**Captcha Decoder**] Text-based captchas have the common characteristics that text is arranged horizontally from left to right, which inspired the design of a sophisticated sequence-based decoder to recognize captcha more efficiently (see Tab.5).
+
 ## Dependency
 
 ```
