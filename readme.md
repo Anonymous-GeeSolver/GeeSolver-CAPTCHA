@@ -2,17 +2,13 @@
 
 This reposity is official implementation of "GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas".
 
-## Overview of GeeSolver
-
-<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-overview.png">
-
-## Usage of text-based captchas
+## Usage of Text-Based Captchas
 
 Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft, and Yandex) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases and their security feature analysis are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/Cases. 
 
 Since Alexa.com ends service on May 1, 2022, the complete list of the top-50 websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/tree/main/AlexaList.
 
-## Our insights into text-based captchas
+## Our Insights into Text-Based Captchas
 
 We would like to better present our insights and corresponding designs through the following three questions.
 
@@ -28,7 +24,11 @@ Humans can recognize each “damaged” character (e.g., occlusion, distortion) 
 
 The common characteristic of captcha images is that the text is arranged horizontally from left to right. Based on this characteristic, we design our sequence-based captcha decoder, which consists of three well-designed modules.
 
-## The schematic illustration of GeeSolver
+## Overview of GeeSolver
+
+<img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-overview.png">
+
+## The Schematic Illustration of GeeSolver Model
 
 <img src="https://github.com/Anonymous-GeeSolver/GeeSolver-CAPTCHA/blob/main/Figs/GeeSolver-model.png">
 
